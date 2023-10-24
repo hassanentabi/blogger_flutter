@@ -15,5 +15,9 @@ Blog project made using Flutter framework Training at a company  [focal X agency
 
 
 
-[Download The App Here]([https://github.com/abdulmominsakib/flutter_podcast/releases](https://github.com/hassanentabi/blogger_flutter/archive/refs/heads/main.zip))
+### Want to support?
+ 
+Do you find my work to be of a value for you?
+You can buy me a **Book**, or **Coffee**. 
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hassanentabi)
